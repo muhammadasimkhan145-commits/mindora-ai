@@ -1,0 +1,6 @@
+{
+  "name": "Mindora AI",
+  "description": "An AI-powered psychology learning and self-awareness mobile-first web app providing screening support, psychology library, and an AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
