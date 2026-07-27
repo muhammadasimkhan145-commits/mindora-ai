@@ -55,6 +55,10 @@ Technologies Used
  . companion page 
      <img width="720" height="1520" alt="WhatsApp Image 2026-07-27 at 12 11 38 A" src="https://github.com/user-attachments/assets/ec4e14a5-1696-47af-bf39-a951242ac345" />
 
+Clone the repository
+
+https://github.com/muhammadasimkhan145-commits/mindora-ai.git
+
  Run Locally
 
 **Prerequisites:**  Node.js
